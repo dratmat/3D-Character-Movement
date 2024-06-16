@@ -1,3 +1,5 @@
+3D Character Movement in Godot 4
+
 This repository contains a script for implementing 3D character movement in Godot 4. The script extends the CharacterBody3D class and provides basic functionalities for moving the character based on input, handling jumping, and rotating the camera based on mouse movement.
 
 Features
